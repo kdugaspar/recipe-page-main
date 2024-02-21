@@ -1,4 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+/* .young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+/* .young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  
 *{
     margin: 0;
     padding: 0;
+}
+.principal>*{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 1rem;
+    background-color: blanchedalmond;
+}
+figure{}
+img{
+    width: 100%;
+}
+.palav{
+    font-family: "Young Serif", serif;
+}
+article{
+background-color: rgba(47, 0, 255, 0.459);
+justify-content: flex-end;
+gap: 2rem;
+height: 16.5rem;
+}
+h1{
+    font-family: "Young Serif", serif;
+    font-size: 2.2rem;
+    width: 19.9rem;
+    background-color: aliceblue;
+}
+p{
+    width: 19.9rem;
+    font-size: 0.9rem;
+    background-color: aliceblue;
+}
+section{
+    background-color: rgba(47, 0, 255, 0.459);
+}
+.sesao-01{
+
 }
