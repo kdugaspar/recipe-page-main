@@ -90,15 +90,17 @@ h2 {
 .sesao-03 {
     background-color: #e01067;
 }
-
+.lista-instrucoes{
+   
+}
 .lista-instrucoes>li {
     background-color: blueviolet;
     width: 18rem;
     font-size: 0.9rem;
     margin-left: 2rem;
-
+    margin-top: 1rem;
+    padding-left: 1rem;
 }
-
 div {
     display: flex;
     flex-direction: column;
