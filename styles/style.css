@@ -99,7 +99,8 @@ li::marker{
     font-size: 0.9rem;
     font-family: "Outfit", sans-serif;
     font-weight: 900;
-    
+    color: #5d233b;
+
 }
 .lista-instrucoes>li {
     background-color: rgba(137, 43, 226, 0.678);
