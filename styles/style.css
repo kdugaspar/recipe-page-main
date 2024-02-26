@@ -77,7 +77,6 @@ h2 {
     width: 19.9rem;
     font-size: 2rem;
     margin-top: 1.1rem;
-    background-color: aqua;
     color: #5d233b;
 }
 
@@ -103,7 +102,6 @@ li::marker{
 
 }
 .lista-instrucoes>li {
-    background-color: rgba(137, 43, 226, 0.678);
     width: 18rem;
     font-size: 0.9rem;
     margin-left: 2rem;
