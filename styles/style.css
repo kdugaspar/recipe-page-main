@@ -89,7 +89,8 @@ h2 {
 }
 
 .sesao-03 {
-    background-color: #e0106700;
+    background-color: #e01067bb;
+    height: 41.4rem;
 }
 .lista-instrucoes{
     /* list-style-position: inside; */
@@ -135,4 +136,9 @@ div {
     margin-left: 3rem;
     font-size: 1.1rem;
 
+}
+
+.sesao-04{
+    gap: 1rem;
+    background-color: #b9a115;
 }
