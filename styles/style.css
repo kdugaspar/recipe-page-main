@@ -39,7 +39,6 @@ article{
     grid-template-rows: auto;
     gap: 1rem;
     width: 21rem;
-    background-color: green;
 }
 
 figure {}
@@ -89,7 +88,6 @@ h2 {
     font-size: 2rem;
     margin-top: 1.1rem;
     color: #5d233b;
-    background-color: yellow;
 }
 
 .lista-ingred {
