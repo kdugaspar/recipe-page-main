@@ -108,7 +108,9 @@ h2 {
     border-bottom: 0.1rem solid rgba(107, 106, 106, 0.404);
 }
 .lista-instrucoes{
-    /* list-style-position: inside; */
+    /* 
+    list-style-position: inside; 
+    */
 }
 li::marker{
     font-size: 0.9rem;
